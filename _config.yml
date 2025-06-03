@@ -4,3 +4,8 @@ plugins:
   - jekyll-remote-theme
 sass:
   sass_dir: _sass
+header_pages:
+  - planned.md
+  - done.md
+  - rejected.md
+  - completed.md
