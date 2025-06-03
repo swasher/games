@@ -1,8 +1,8 @@
 - title: Completed
-  url: /completed/
+  url: /games/completed/
 - title: Done
-  url: /done/
+  url: /games/done/
 - title: Planned
-  url: /planned/
+  url: /games/planned/
 - title: Rejected
-  url: /rejected/
+  url: /games/rejected/
