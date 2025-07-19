@@ -3,7 +3,7 @@ name: Deploy Hugo site to GitHub Pages
 on:
   push:
     branches:
-      - main  # реагируем на коммиты в main
+      - master  # реагируем на коммиты в master
 
 permissions:
   contents: write  # нужно для пуша в gh-pages
