@@ -1,0 +1,33 @@
+baseURL: "https://swasher.github.io/games/"
+languageCode: "ru-ru"
+title: "Games Status"
+theme: "PaperMod"
+
+params:
+  ShowToc: true
+  ShowBreadCrumbs: false
+  defaultTheme: auto
+
+menu:
+  main:
+    - identifier: planned
+      name: Planned
+      url: /planned/
+      weight: 1
+    - identifier: done
+      name: Done
+      url: /done/
+      weight: 2
+    - identifier: completed
+      name: Completed
+      url: /completed/
+      weight: 3
+    - identifier: rejected
+      name: Rejected
+      url: /rejected/
+      weight: 4
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

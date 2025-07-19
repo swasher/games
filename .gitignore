@@ -1,0 +1,26 @@
+
+# Hugo
+/public/
+/resources/_gen/
+hugo_stats.json
+*.lock
+hugo*.log
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+/out/
+*.ipr
+
+# Общие файлы и папки
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
+.env
+node_modules/
+dist/
