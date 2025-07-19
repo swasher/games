@@ -5,8 +5,12 @@ theme: "PaperMod"
 
 params:
   ShowToc: true
+  ShowTocSide: true
   ShowBreadCrumbs: false
   defaultTheme: auto
+  assets:
+    customCSS:
+      - css/extended/sidebar-toc.css
 
 menu:
   main:

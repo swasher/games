@@ -25,7 +25,11 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify
+        # Для Blowfish:
+        run: hugo --minify --configDir=configs/blowfish
+
+        # Для PaperMod:
+        # run: hugo --minify --config=configs/papermod/config.yaml
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3

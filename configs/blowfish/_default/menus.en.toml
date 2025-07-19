@@ -1,0 +1,19 @@
+[[main]]
+name = "Planned"
+pageRef = "/planned"
+weight = 1
+
+[[main]]
+name = "Done"
+pageRef = "/done"
+weight = 2
+
+[[main]]
+name = "Completed"
+pageRef = "/completed"
+weight = 3
+
+[[main]]
+name = "Rejected"
+pageRef = "/rejected"
+weight = 4

@@ -1,6 +1,7 @@
 ---
 title: "Planned"
 layout: "page"
+toc: true
 ---
 
 ## Planned Tasks
