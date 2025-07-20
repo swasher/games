@@ -4,7 +4,8 @@ backend:
   branch: master
   base_url: "https://decap-cms-proxy.mr-swasher.workers.dev"
   auth_endpoint: "api/auth"
-  login: true
+  # login: true
+  auth_type: pkce
   redirect_uri: "https://swasher.github.io/games/admin/"
 #  site_id: swasher.github.io/games
   site_domain: "swasher.github.io/games"
