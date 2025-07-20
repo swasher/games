@@ -3,12 +3,12 @@ backend:
   repo: swasher/games
   branch: master
   base_url: "https://decap-cms-proxy.mr-swasher.workers.dev"
-  auth_endpoint: "api/auth"
+  auth_endpoint: "auth"
   # login: true
   auth_type: pkce
-  redirect_uri: "https://swasher.github.io/games/admin/"
+#  redirect_uri: "https://swasher.github.io/games/admin/"
   #  site_id: swasher.github.io/games
-  site_domain: "swasher.github.io/games"
+#  site_domain: "swasher.github.io/games"
 
 media_folder: ""        # для page bundles: сохранять рядом с index.md
 public_folder: ""
