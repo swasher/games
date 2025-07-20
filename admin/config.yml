@@ -1,6 +1,9 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: swasher/games
   branch: master
+  base_url: https://decap-cms-proxy.mr-swasher.workers.dev
+  auth_endpoint: /api/auth
 
 media_folder: ""        # для page bundles: сохранять рядом с index.md
 public_folder: ""
