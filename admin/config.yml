@@ -3,7 +3,7 @@ backend:
   repo: swasher/games
   branch: master
   base_url: "https://decap-cms-proxy.mr-swasher.workers.dev"
-  auth_endpoint: /auth
+  auth_endpoint: "api/auth"
   login: true
   redirect_uri: "https://swasher.github.io/games/admin/"
 #  site_id: swasher.github.io/games
