@@ -14,6 +14,7 @@ publish_mode: editorial_workflow
 
 site_url: https://swasher.github.io/games
 display_url: https://swasher.github.io/games
+search: false
 
 collections:
   - name: "planned"
