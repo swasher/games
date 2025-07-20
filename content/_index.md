@@ -1,6 +1,5 @@
 ---
 title: "Home"
-layout: "page"
+layout: "redirect"
+redirect: "planned/"
 ---
-
-ferferfer
