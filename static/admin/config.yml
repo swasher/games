@@ -1,0 +1,61 @@
+backend:
+  name: git-gateway
+  branch: main  # или 'master', если у тебя основной бранч называется так
+
+media_folder: ""        # для page bundles: сохранять рядом с index.md
+public_folder: ""
+
+publish_mode: editorial_workflow
+
+collections:
+  - name: "planned"
+    label: "Planned"
+    files:
+      - name: "index"
+        label: "Planned Page"
+        file: "content/planned/index.md"
+        media_folder: ""          # рядом с index.md
+        public_folder: ""
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Image", name: "image", widget: "image", required: false }
+
+  - name: "done"
+    label: "Done"
+    files:
+      - name: "index"
+        label: "Done Page"
+        file: "content/done/index.md"
+        media_folder: ""
+        public_folder: ""
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Image", name: "image", widget: "image", required: false }
+
+  - name: "completed"
+    label: "Completed"
+    files:
+      - name: "index"
+        label: "Completed Page"
+        file: "content/completed/index.md"
+        media_folder: ""
+        public_folder: ""
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Image", name: "image", widget: "image", required: false }
+
+  - name: "rejected"
+    label: "Rejected"
+    files:
+      - name: "index"
+        label: "Rejected Page"
+        file: "content/rejected/index.md"
+        media_folder: ""
+        public_folder: ""
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Image", name: "image", widget: "image", required: false }
