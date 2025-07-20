@@ -4,6 +4,8 @@ backend:
   branch: master
   base_url: https://decap-cms-proxy.mr-swasher.workers.dev
   auth_endpoint: /api/auth
+  login: true
+  redirect_uri: https://swasher.github.io/games/admin/
 
 media_folder: ""        # для page bundles: сохранять рядом с index.md
 public_folder: ""
