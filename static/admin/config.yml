@@ -26,12 +26,11 @@ collections:
       - name: "index"
         label: "Planned Page"
         file: "content/planned/index.md"
-        media_folder: ""          # рядом с index.md
-        public_folder: ""
         fields:
           - { label: "Title", name: "title", widget: "string" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Show Table of Contents", name: "toc", widget: "boolean", default: true }
           - { label: "Body", name: "body", widget: "markdown" }
-          - { label: "Image", name: "image", widget: "image", required: false }
 
   - name: "done"
     label: "Done"
@@ -39,12 +38,11 @@ collections:
       - name: "index"
         label: "Done Page"
         file: "content/done/index.md"
-        media_folder: ""
-        public_folder: ""
         fields:
           - { label: "Title", name: "title", widget: "string" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Show Table of Contents", name: "toc", widget: "boolean", default: true }
           - { label: "Body", name: "body", widget: "markdown" }
-          - { label: "Image", name: "image", widget: "image", required: false }
 
   - name: "completed"
     label: "Completed"
@@ -52,12 +50,11 @@ collections:
       - name: "index"
         label: "Completed Page"
         file: "content/completed/index.md"
-        media_folder: ""
-        public_folder: ""
         fields:
           - { label: "Title", name: "title", widget: "string" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Show Table of Contents", name: "toc", widget: "boolean", default: true }
           - { label: "Body", name: "body", widget: "markdown" }
-          - { label: "Image", name: "image", widget: "image", required: false }
 
   - name: "rejected"
     label: "Rejected"
@@ -65,9 +62,8 @@ collections:
       - name: "index"
         label: "Rejected Page"
         file: "content/rejected/index.md"
-        media_folder: ""
-        public_folder: ""
         fields:
           - { label: "Title", name: "title", widget: "string" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Show Table of Contents", name: "toc", widget: "boolean", default: true }
           - { label: "Body", name: "body", widget: "markdown" }
-          - { label: "Image", name: "image", widget: "image", required: false }
