@@ -20,24 +20,24 @@ display_url: "https://swasher.github.io/games"
 search: false
 
 collections:
-  - name: "planned"
-    label: "Planned"
+  - name: "backlog"
+    label: "Backlog"
     files:
       - name: "index"
-        label: "Planned Page"
-        file: "content/planned/index.md"
+        label: "Backlog Page"
+        file: "content/backlog/index.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
           - { label: "Show Table of Contents", name: "toc", widget: "boolean", default: true }
           - { label: "Body", name: "body", widget: "markdown" }
 
-  - name: "done"
-    label: "Done"
+  - name: "abandoned"
+    label: "Abandoned"
     files:
       - name: "index"
-        label: "Done Page"
-        file: "content/done/index.md"
+        label: "Abandoned Page"
+        file: "content/abandoned/index.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
