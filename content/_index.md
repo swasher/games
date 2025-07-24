@@ -1,5 +1,5 @@
 ---
 title: "Home"
 layout: "redirect"
-redirect: "planned/"
+redirect: "backlog/"
 ---

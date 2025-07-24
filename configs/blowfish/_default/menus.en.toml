@@ -1,19 +1,19 @@
 [[main]]
-name = "Planned"
-pageRef = "/planned"
+name = "Backlog"
+pageRef = "/backlog"
 weight = 1
-
-[[main]]
-name = "Done"
-pageRef = "/done"
-weight = 2
 
 [[main]]
 name = "Completed"
 pageRef = "/completed"
-weight = 3
+weight = 2
 
 [[main]]
 name = "Rejected"
 pageRef = "/rejected"
+weight = 3
+
+[[main]]
+name = "Abandoned"
+pageRef = "/abandoned"
 weight = 4
