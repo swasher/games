@@ -11,7 +11,8 @@ toc: true
 
 ## На геймпаде
 
-- Alan Wake II (I ?)
+- Alan Wake (см. ниже)
+- Life is strange (см. ниже)
 - Firewatch 
 - What Remains of Edith Finch 
 - Gone Home 
@@ -30,11 +31,36 @@ toc: true
 - The Alters 
 - The Forgotten City
 
+### Alan Wake
+
+Вселенная Remedy Connected Universe (RCU). Alan Wake сюжетно связан с Control. Порядок прохождения:
+
+- Alan Wake 1 Remastered (2010 / 2021)
+- DLC "The Signal" 
+- DLC "The Writer", Эти DLC закрывают основную сюжетную арку Alan Wake 1 и подводят к событиям Control. 
+  🕒 10–12 часов (включая DLC).
+- Control (2019)
+  🕒 10–15 часов (больше, если исследовать побочные миссии и лор).
+- Control: AWE DLC (2020). Это ключевой связующий элемент между Control и Alan Wake 2.
+  🕒 2–3 часа.
+- Alan Wake 2 (2023)
+  🕒 18–25 часов.
+
+## Life is strange
+
+1. Life is Strange (2015) — начните с оригинальной игры, чтобы понять механику перемотки времени и познакомиться с Макс и Хлоей. 
+   a. Life is Strange: Before the Storm (2017) — приквел, который углубляет историю Хлои и Рэйчел. 
+   b. Бонусный эпизод Farewell играйте после основных эпизодов. Remastered Collection включает оригинал + Before the Storm + Farewell 
+2. The Awesome Adventures of Captain Spirit (2018) — короткий пролог к Life is Strange 2.
+3. Life is Strange 2 (2018–2019) — новая история с отсылками к первой части.
+4. Life is Strange: True Colors (2021) — самостоятельная история, дополнение Wavelengths играйте после основного сюжета.
+5. Life is Strange: Double Exposure (2024) — продолжение истории Макс, лучше играть после оригинала и Before the Storm.
+
+
 ## классика
 
 - God of War (2018, PC-версия 2022)
 - Uncharted 4: A Thief’s End (2016, PC-версия 2022 в составе Legacy of Thieves Collection)
-- Control (2019)
 - Dead Space (2023, ремейк) или на пк
 - The Callisto Protocol (2023)
 - Dark Souls
@@ -50,18 +76,11 @@ toc: true
 - Detroit: Become Human
 - Heavy Rain 
 - Beyond: Two Souls
-- Until Dawn (выживач, много QTE, но он не сложное, игра считается культовой)
+- Until Dawn (выживач, много QTE, но оно не сложное, игра считается культовой)
 - The Quarry (Духовный наследник Until Dawn)
 - Erica (именно КИНО с живыми актерами)
 
 
-## Life is strange
-
-1. Life is Strange (2015) — начните с оригинальной игры, чтобы понять механику перемотки времени и познакомиться с Макс и Хлоей. Life is Strange: Before the Storm (2017) — приквел, который углубляет историю Хлои и Рэйчел. Бонусный эпизод Farewell играйте после основных эпизодов. Remastered Collection включает оригинал + Before the Storm + Farewell 
-2. The Awesome Adventures of Captain Spirit (2018) — короткий пролог к Life is Strange 2.
-3. Life is Strange 2 (2018–2019) — новая история с отсылками к первой части.
-4. Life is Strange: True Colors (2021) — самостоятельная история, дополнение Wavelengths играйте после основного сюжета.
-5. Life is Strange: Double Exposure (2024) — продолжение истории Макс, лучше играть после оригинала и Before the Storm.
 
 
 ## На PC
@@ -71,6 +90,7 @@ toc: true
 - Kingdom Come: Deliverance II
 - The Forest Prison (дело не в графе, но надо глянуть)
 - Watch Dog
+- The Wandering Village
 
 
 ## Заценить:
@@ -91,9 +111,9 @@ toc: true
 
 ## Перепройти
 
-Fallout 3-NW-4  
-Дивинити и дивинити 2  
-Ведьмак 3 добить, Перепройти 1 и 2?  
+- Fallout 3-NW-4  
+- Дивинити и дивинити 2  
+- Ведьмак 3 добить, Перепройти 1 и 2?  
 
 ## Игры типа "The Painscreek killings"
 

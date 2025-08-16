@@ -23,3 +23,9 @@ toc: true
 07.2025
 
 ---
+
+## Life is Strange 1 ⭐⭐⭐⭐⭐
+
+![img_4.png](img_4.png)
+
+08.2025
